@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Laboras</title>
+    <link>elio.github.io/posts/</link>
+    <description>Recent content in Posts on Laboras</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Oct 2023 19:49:40 +0300</lastBuildDate><atom:link href="elio.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Laboro naujas puslapis</title>
+      <link>elio.github.io/posts/laboras/</link>
+      <pubDate>Thu, 19 Oct 2023 19:49:40 +0300</pubDate>
+      
+      <guid>elio.github.io/posts/laboras/</guid>
+      <description>This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+    </item>
+    
+  </channel>
+</rss>
